@@ -15,7 +15,7 @@ Esta base de dados está previamente classificada em notícias verdadeiras e fal
 O pré-processamento consiste em remover stop-words, acentuações e diacríticos, bem como a normalização do texto.
 
 
-# [Notebook do projeto](https://github.com/lucca-fsc/EmotionDetection/blob/main/Sentiment_Analysis_with_SkLearn.ipynb)
+# [Notebook do projeto](https://github.com/lucca-fsc/FakeNewsDetection/blob/main/Detec%C3%A7%C3%A3o_de_Fake_News.ipynb)
 
 Atividades:
 1. Entender quais informações o conjunto de dados possui;
