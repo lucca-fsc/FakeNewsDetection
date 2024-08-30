@@ -1,7 +1,7 @@
 # FakeNewsDetection
 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
 Projeto que utiliza técnicas de Inteligência Artificial e PLN (Processamento de Linguagem Natural) para detectar notícias Falsas.
